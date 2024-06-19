@@ -7,7 +7,7 @@ title: Publications
 Full publication list can be found in [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=mAo_lUwAAAAJ).
 
 
-## <i>Reaoning and Planning in Large Language Models</i>
+## <i>Reasoning and Planning in Large Language Models</i>
 <details>
 <summary><i><ins>More Intelligent, More Personalized, More Collaborative</ins></i></summary>   
 
