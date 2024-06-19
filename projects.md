@@ -6,7 +6,19 @@ title: Projects
 
 ## Open Source Repositories
 
-### [PerSE] Learning Personalized Alignment for Evaluating Open-ended Text Generation 
+### [RLHEX] <em>Global Human-guided Counterfactual Explanations for Molecular Properties via Reinforcement Learning</em>
+***Danqing Wang<sup>*</sup>***, Antonis Antoniades<sup>*†</sup>, Kha-Dinh Luong†, Edwin Zhang<sup>‡</sup>, Mert Kosan†, Jiachen Li†, William Yang Wang†, Ambuj Singh†, Lei Li   
+Carnegie Mellon University, †UC Santa Barbara, ‡Harvard University, Founding     
+<!-- <a href="https://storyrl.github.io" title="Website"><i class="fas fa-home"></i></a> -->
+<a href="https://doi.org/10.1145/3637528.3672045" title="Paper"><i class="fa fa-file-alt"></i></a>
+<!-- <a href="/assets/PPT/20230407_ICLR2023_EATLM.pdf" title="Slides"><i class="fas fa-file-powerpoint"></i></a> -->
+<a href="https://github.com/dqwang122/RLHEX" title="Code"><i class="fab fa-github"></i></a>
+<!-- <a href="https://dl.fbaipublicfiles.com/perse/PerDOC.tar.gz" title="Resource"><i class="fab fa-google-drive"></i></a> -->
+<!-- <a href="https://iclr.cc/virtual/2023/poster/10766" title="Video"><i class="fab fa-youtube"></i></a> -->
+
+***
+
+### [PerSE] <em>Learning Personalized Alignment for Evaluating Open-ended Text Generation</em> 
 ***Danqing Wang***, Kevin Yang†‡, Hanlin Zhu†‡, Xiaomeng Yang†, Andrew Cohen†, Lei Li*, Yuandong Tian†   
 UC Santa Barbara, †Meta AI, ‡UC Berkeley, *Carnegie Mellon University    
 <a href="https://storyrl.github.io" title="Website"><i class="fas fa-home"></i></a>
@@ -18,7 +30,7 @@ UC Santa Barbara, †Meta AI, ‡UC Berkeley, *Carnegie Mellon University
 
 ***
 
-### [SALAM] Learning from Mistakes via Cooperative Study Assistant for Large Language Models   
+### [SALAM] <em>Learning from Mistakes via Cooperative Study Assistant for Large Language Models</em>   
 ***Danqing Wang***, Lei Li*   
 UC Santa Barbara, *Carnegie Mellon University   
 <a href="/projects/SALAM/" title="Website"><i class="fas fa-home"></i></a>
@@ -30,7 +42,7 @@ UC Santa Barbara, *Carnegie Mellon University
 
 ***
 
-### [EATLM & ATUE] On Pre-training Language Model for Antibody   
+### [EATLM & ATUE] <em>On Pre-training Language Model for Antibody</em>   
 ***Danqing Wang***†‡, Fei Ye†, Hao Zhou*   
 UC Santa Barbara, †ByteDance AI Lab, *Tsinghua University  
 <a href="/projects/EATLM/" title="Website"><i class="fas fa-home"></i></a>
@@ -42,7 +54,7 @@ UC Santa Barbara, †ByteDance AI Lab, *Tsinghua University
 
 ***
 
-### [LSSAMP] Accelerating Antimicrobial Peptide Discovery with Latent Structure   
+### [LSSAMP] <em>Accelerating Antimicrobial Peptide Discovery with Latent Structure</em>   
 ***Danqing Wang***†‡, Zeyu Wen†, Fei Ye†, Lei Li‡, Hao Zhou*,  
 ‡UC Santa Barbara, †ByteDance Research, Huazhong University of Science and Technology, *Tsinghua University   
 <a href="/projects/LSSAMP/" title="Website"><i class="fas fa-home"></i></a>
@@ -53,7 +65,7 @@ UC Santa Barbara, †ByteDance AI Lab, *Tsinghua University
 
 ***
 
-### [CALMS] Contrastive Aligned Joint Learning for Multilingual Summarization
+### [CALMS] <em>Contrastive Aligned Joint Learning for Multilingual Summarization</em>
 ***Danqing Wang***, Jiaze Chen, Hao Zhou, Xipeng Qiu†, Lei Li   
 ByteDance AI Lab, †Fudan University  
 <a href="/projects/CALMS/" title="Website"><i class="fas fa-home"></i></a>
@@ -65,7 +77,7 @@ ByteDance AI Lab, †Fudan University
 
 ***
 
-### [CNewSum] A Large-scale Chinese News Summarization Dataset with Human-annotated Adequacy and Deducibility Level
+### [CNewSum] <em>A Large-scale Chinese News Summarization Dataset with Human-annotated Adequacy and Deducibility Level</em>
 ***Danqing Wang***, Jiaze Chen, Xianze Wu, Hao Zhou, Lei Li†  
 ByteDance AI Lab, †UC Santa Barbara  
 <a href="/projects/CNewSum/" title="Website"><i class="fas fa-home"></i></a>
@@ -76,7 +88,7 @@ ByteDance AI Lab, †UC Santa Barbara
 
 ***
 
-### [HeterSumGraph] Heterogeneous Graph Neural Networks for Extractive Document Summarization
+### [HeterSumGraph] <em>Heterogeneous Graph Neural Networks for Extractive Document Summarization</em>
 ***Danqing Wang***\*, Pengfei Liu\*, Yining Zheng, Xipeng Qiu, Xuanjing Huang  
 Fudan University  
 <a href="https://aclanthology.org/2020.acl-main.553" title="Paper"><i class="fa fa-file-alt"></i></a>
@@ -87,7 +99,7 @@ Fudan University
 
 ***
 
-### [MULTI-SUM] Exploring Domain Shift in Extractive Text Summarization
+### [MULTI-SUM] <em>Exploring Domain Shift in Extractive Text Summarization</em>
 ***Danqing Wang***\*, Pengfei Liu\*, Ming Zhong, Jie Fu, Xipeng Qiu, Xuanjing Huang  
 Fudan University    
 <a href="https://arxiv.org/abs/1908.11664" title="Paper"><i class="fa fa-file-alt"></i></a>
