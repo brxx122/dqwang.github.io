@@ -7,7 +7,7 @@ title: Danqing Wang
 <!-- ## Welcome to My HomePage ! -->
 ## <em>About Me</em>
 
-I am now pursuing my Ph.D. degree at LTI in Carnegie Mellon University (CMU), advised by [Prof. Lei Li](https://lileicc.github.io/). Before that I studies in UC Santa Barbara as a PhD student as a member of [UCSB NLP Group](https://nlp.cs.ucsb.edu/). I was a full-time researcher of ByteDance AI Lab and closely worked with [Jiaze Chen](https://cn.linkedin.com/in/jiaze-chen-00ab2681) and [Hao Zhou](https://zhouh.github.io/).
+I am now pursuing my Ph.D. degree at LTI in Carnegie Mellon University (CMU), advised by [Prof. Lei Li](https://lileicc.github.io/). Before that I studies in UC Santa Barbara as a PhD student as a member of [UCSB NLP Group](https://nlp.cs.ucsb.edu/). I was a full-time researcher of ByteDance AI Lab.
 I obtained my Master's and Bachelor's degrees in Computer Science from Fudan University and was a member of [Fudan NLP Group](https://nlp.fudan.edu.cn/), advised by [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html) and [Prof. Xuanjing Huang](https://nlp.fudan.edu.cn/28702/list.htm).
 My research focuses on **Strategic Planning of Large Language Models**, especially Multi-agent Cooperation. I am also interested in **AI for Science**, such as AI-assisted Drug Discovery.
 
@@ -21,8 +21,11 @@ My research focuses on **Strategic Planning of Large Language Models**, especial
 ## <em>Work Experience</em>
 
 * 2024.3-2024.5: Research Scientist Intern, Alibaba (Team Qwen)
+  * Mentor: [Jianxin Ma](https://jianxinma.github.io/)
 * 2023.6-2024.1: Research Scientist Intern, Meta AI (FAIR)
+  * Mentor: [Yuandong Tian](https://yuandong-tian.com/)
 * 2020.4-2022.8: Researcher, ByteDance Research (AI Lab)
+  * Mentor: [Jiaze Chen](https://cn.linkedin.com/in/jiaze-chen-00ab2681), [Hao Zhou](https://zhouh.github.io/), [Lei Li](https://lileicc.github.io/)
 
 ## <em>Academic Service</em>
 <!-- ## PC Member   -->

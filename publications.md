@@ -61,7 +61,7 @@ Full publication list can be found in [Google Scholar](https://scholar.google.co
   <tr>
     <td width="65%">
       <h4>
-        Instructscore: Towards Explainable Text Generation Evaluation with Automatic Feedback
+        InstructScore: Towards Explainable Text Generation Evaluation with Automatic Feedback
         <a href="https://leililab.github.io/projects/instructscore/"><i class="fa fa-home"></i></a>
       </h4>
       Wenda Xu, <em><strong>Danqing Wang</strong></em>, Liangming Pan, Zhenqiao Song, Markus Freitag, William Yang Wang, Lei Li <br/>
@@ -94,7 +94,7 @@ Full publication list can be found in [Google Scholar](https://scholar.google.co
   <td width="65%">
     <h4>
       Global Human-guided Counterfactual Explanations for Molecular Properties via Reinforcement Learning
-      <a href="https://doi.org/10.1145/3637528.3672045"><i class="fa fa-link fa-sm"></i></a>
+      <a href="https://arxiv.org/abs/2406.13869"><i class="fa fa-link fa-sm"></i></a>
     </h4>
     <em><strong>Danqing Wang*</strong></em>, Antonis Antoniades*, Kha-Dinh Luong, Edwin Zhang, Mert Kosan, Jiachen Li, William Yang Wang, Ambuj Singh, Lei Li <br/>
     <em>30th ACM SIGKDD Conference On Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2024</em>
