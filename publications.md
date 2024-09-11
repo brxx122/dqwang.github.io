@@ -7,9 +7,17 @@ title: Publications
 Full publication list can be found in [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=mAo_lUwAAAAJ).
 
 
-## <i>Reasoning and Planning in Large Language Models</i>
-<details>
-<summary><i><ins>More Intelligent, More Personalized, More Collaborative</ins></i></summary>   
+<!-- Add buttons here -->
+<div class="btn-group" role="group" aria-label="Sort Options">
+  <a href="years"><i class="fas fa-calendar-alt"></i> Sorted by Year</a>
+  <a href="tags"><i class="fas fa-tags"></i> Sorted by Tags</a>
+  <a href="confs"><i class="fas fa-graduation-cap"></i> Sorted by Conference</a>
+</div>
+
+## <i>Large Language Models: More Intelligent, More Personalized, More Collaborative</i>
+<!-- <details>
+<summary><i><ins>More Intelligent, More Personalized, More Collaborative</ins></i></summary>    -->
+<i><ins>More Intelligent, More Personalized, More Collaborative</ins></i>
 
   <table>
   <tr>
@@ -62,7 +70,8 @@ Full publication list can be found in [Google Scholar](https://scholar.google.co
     <td width="65%">
       <h4>
         InstructScore: Towards Explainable Text Generation Evaluation with Automatic Feedback
-        <a href="https://leililab.github.io/projects/instructscore/"><i class="fa fa-home"></i></a>
+        <!-- <a href="https://leililab.github.io/projects/instructscore/"><i class="fa fa-home"></i></a> -->
+        <a href="https://aclanthology.org/2023.emnlp-main.365/"><i class="fa fa-link fa-sm"></i></a>
       </h4>
       Wenda Xu, <em><strong>Danqing Wang</strong></em>, Liangming Pan, Zhenqiao Song, Markus Freitag, William Yang Wang, Lei Li <br/>
       <em>Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>), 2023</em>
@@ -73,8 +82,8 @@ Full publication list can be found in [Google Scholar](https://scholar.google.co
     <td width="65%">
       <h4>
         ALGO: Synthesizing Algorithmic Programs with Generated Oracle Verifiers
-        <!-- <a href="https://arxiv.org/pdf/2305.14591"><i class="fa fa-link fa-sm"></i></a> -->
-        <a href="https://leililab.github.io/projects/algo/"><i class="fa fa-home"></i></a>
+        <a href="https://arxiv.org/pdf/2305.14591"><i class="fa fa-link fa-sm"></i></a>
+        <!-- <a href="https://leililab.github.io/projects/algo/"><i class="fa fa-home"></i></a> -->
       </h4>
       Kexun Zhang, <em><strong>Danqing Wang</strong></em>, Jingtao Xia, William Yang Wang, Lei Li <br/>
       <em>Thirty-seventh Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023</em>
@@ -82,12 +91,12 @@ Full publication list can be found in [Google Scholar](https://scholar.google.co
     <td width="35%" align="right" valign="middle"><img src="/assets/images/ALGO.jpg" alt="ATUE"></td>
   </tr>
   </table>
-</details>
+<!-- </details> -->
 
 
-## <i>AI for Science</i>
-<details>
-<summary> <i> <ins>How to find new drugs and interprete AI-decision?</ins> </i></summary> 
+## <i>AI for Science: How to find new drugs and interprete AI-decision?</i>
+<!-- <details>
+<summary> <i> <ins>How to find new drugs and interprete AI-decision?</ins> </i></summary>  -->
 
 <table>
 <tr>
@@ -126,12 +135,12 @@ Full publication list can be found in [Google Scholar](https://scholar.google.co
   <td width="35%" align="right" valign="middle"><img src="/assets/images/LSSAMP.jpg" alt="LSSAMP"></td>
 </tr>
 </table>
-</details>
+<!-- </details> -->
 
 
-## <i>Text Summarization</i>
-<details>
-<summary> <i><ins>Compression is intelligence! Concise & Faithful & Multilingual</ins></i> </summary>
+## <i>Text Summarization: Compression is intelligence! Concise & Faithful & Multilingual</i>
+<!-- <details>
+<summary> <i><ins>Compression is intelligence! Concise & Faithful & Multilingual</ins></i> </summary> -->
   <table>
   <tr>
     <td width="65%">
@@ -169,7 +178,7 @@ Full publication list can be found in [Google Scholar](https://scholar.google.co
       <em>The 58th Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2020</em>
       <br/><br/>
     </td>
-    <td width="35%" align="middle" valign="middle"><img src="/assets/images/HSG.jpg" alt="HSG" height="25%"></td>
+    <td width="35%" align="middle" valign="middle"><img src="/assets/images/HSG.jpg" alt="HSG" style="height:300px;"></td>
   </tr>
   <!-- <tr>
     <td width="65%">
@@ -232,5 +241,5 @@ Full publication list can be found in [Google Scholar](https://scholar.google.co
     <td width="35%"></td>
   </tr>
   </table>
-</details>
+<!-- </details> -->
 

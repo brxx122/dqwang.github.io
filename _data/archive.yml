@@ -2,17 +2,17 @@
   title: Home
   url: /
 - type: categories
-  title: Publication
+  title: Publications
   url: /publications/
 - type: categories
-  title: Project
+  title: Projects
   url: /projects/
 # - type: dates
 #   title: Blog
 #   url: /blogs/
-#- type: categories
-#  title: Categories
-#  url: /categories/
+# - type: categories
+#   title: Categories
+#   url: /categories/
 # - type: tags
 #   title: Tag
 #   url: /tags/

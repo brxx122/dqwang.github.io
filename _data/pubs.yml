@@ -1,0 +1,98 @@
+- title: "Cooperative Strategic Planning Enhances Reasoning Capabilities in Large Language Models"
+  date: "2024-06-01"
+  category: "Under Submission"
+  tags:
+    - Large Language Model
+    - Multi-agent Reasoning
+- title: "ThinkHub: Enhancing Large Language Models with Implicit Policy and Explicit Knowledge"
+  date: "2024-05-01"
+  category: "Under Submission"
+  tags:
+    - Large Language Model
+    - Multi-agent Reasoning
+- title: "Searching for Effective Neural Extractive Summarization: What Works and What's Next"
+  date: "2019-02-01"
+  category: "ACL"
+  tags:
+    - Text Summarization
+  url: https://arxiv.org/abs/1907.03491
+- title: "Extractive Summarization as Text Matching"
+  date: "2020-02-01"
+  category: "ACL"
+  tags:
+    - Text Summarization
+  url: https://arxiv.org/abs/2004.08795
+- title: "Heterogeneous Graph Neural Networks for Extractive Document Summarization"
+  date: "2020-02-01"
+  category: "ACL"
+  tags:
+    - Text Summarization
+    - Graph Neural Network
+  url: https://aclanthology.org/2020.acl-main.553
+- title: "Contrastive Aligned Joint Learning for Multilingual Summarization"
+  date: "2021-02-01"
+  category: "ACL Findings"
+  tags:
+    - Text Summarization
+    - Multilingual Generation
+    - Benchmark
+  url: /projects/CALMS
+- title: "MTG: A Benchmark Suite for Multilingual Text Generation"
+  date: "2021-05-01"
+  category: "NAACL Findings"
+  tags:
+    - Multilingual Generation
+    - Benchmark
+  url: https://arxiv.org/abs/2108.07140
+- title: "On Pre-training Language Model for Antibody"
+  date: "2022-05-01"
+  category: "ICLR"
+  tags:
+    - AI for Drug
+    - Protein & Peptite
+    - Benchmark
+  url: /projects/EATLM/
+- title: "Accelerating Antimicrobial Peptide Discovery with Latent Structure"
+  date: "2023-02-01"
+  category: "KDD"
+  tags:
+    - AI for Drug
+    - Protein & Peptite
+  url: /projects/LSSAMP
+- title: "Global Human-guided Counterfactual Explanations for Molecular Properties via Reinforcement Learning"
+  date: "2024-02-01"
+  category: "KDD"
+  tags:
+    - AI for Drug
+    - Molecule
+    - Graph Neural Network
+  url: https://arxiv.org/abs/2406.13869
+- title: "Learning from Mistakes via Cooperative Study Assistant for Large Language Models "
+  date: "2023-05-01"
+  category: "EMNLP"
+  tags:
+    - Large Language Model
+    - Multi-agent Reasoning
+  url: /projects/SALAM/
+- title: "Learning Personalized Alignment for Evaluating Open-ended Text Generation"
+  date: "2023-09-01"
+  category: "arXiv"
+  tags:
+    - Large Language Model
+    - Evaluation
+    - Personalization
+  url: https://arxiv.org/abs/2310.03304
+- title: "InstructScore: Towards Explainable Text Generation Evaluation with Automatic Feedback"
+  date: "2023-05-01"
+  category: "EMNLP"
+  tags:
+    - Large Language Model
+    - Evaluation
+  url: https://aclanthology.org/2023.emnlp-main.365/
+- title: "ALGO: synthesizing algorithmic programs with LLM-generated oracle verifiers"
+  date: "2023-02-01"
+  category: "NeurIPS"
+  tags:
+    - Large Language Model
+    - Code Generation
+  url: https://arxiv.org/pdf/2305.14591

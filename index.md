@@ -9,7 +9,7 @@ title: Danqing Wang
 
 I am now pursuing my Ph.D. degree at LTI in Carnegie Mellon University (CMU), advised by [Prof. Lei Li](https://lileicc.github.io/). Before that I studies in UC Santa Barbara as a PhD student as a member of [UCSB NLP Group](https://nlp.cs.ucsb.edu/). I was a full-time researcher of ByteDance AI Lab.
 I obtained my Master's and Bachelor's degrees in Computer Science from Fudan University and was a member of [Fudan NLP Group](https://nlp.fudan.edu.cn/), advised by [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html) and [Prof. Xuanjing Huang](https://nlp.fudan.edu.cn/28702/list.htm).
-My research focuses on **Strategic Planning of Large Language Models**, especially Multi-agent Cooperation. I am also interested in **AI for Science**, such as AI-assisted Drug Discovery.
+My research focuses on **Strategic Planning of Large Language Models**, especially Multi-agent Cooperation. I am also interested in **AI for Science**, such as AI-assisted Drug Discovery. You can find my resume / CV [here](/assets/CV/CV_latest.pdf).
 
 ## <em>Education</em>
 

@@ -1,0 +1,73 @@
+---
+layout: default
+---
+
+{% include home-header.html %}
+
+<h2>{{ page.title }}</h2>
+
+{%- assign taxonomies = site.data.pubs | group_by_exp: "pub", "pub.date | date: '%Y'" -%}
+{%- assign sorted_taxonomies = taxonomies | sort: "name" | reverse -%}
+
+<div class="btn-group" role="group" aria-label="Sort Options">  
+  <a href="/publications/years"><i class="fas fa-calendar-alt"></i> Sorted by Year</a>
+  <a href="/publications/tags"><i class="fas fa-tags"></i> Sorted by Tags</a>
+  <a href="/publications/confs"><i class="fas fa-graduation-cap"></i> Sorted by Conference</a>
+</div>
+<div class="btn-group" role="group" aria-label="Navigation">
+  <a href="/publications" class="btn btn-secondary">
+    <i class="fas fa-arrow-left"></i> Return
+  </a>
+</div>
+
+<div class="taxonomies-wrapper">
+  <ul class="taxonomies">
+    {%- for taxonomy in sorted_taxonomies -%}
+      <li>
+        {%- capture link -%}{{ page.permalink }}#{{ taxonomy.name }}{%- endcapture -%}
+        <a class="taxonomy" href="{{ link | relative_url }}">
+            <span>{{ taxonomy.name }}</span>
+            <span class="taxonomy-count">{{ taxonomy.size }}</span>
+        </a>
+      </li>
+    {%- endfor -%}
+  </ul>
+</div>
+
+<!-- Add return button here -->
+<!-- <div class="btn-group" role="group" aria-label="Navigation">
+  <a href="/publications" class="btn btn-secondary">
+    <i class="fas fa-arrow-left"></i> Return
+  </a>
+</div> -->
+
+{% comment %} Show posts by taxonomy {% endcomment %}
+{%- for taxonomy in sorted_taxonomies -%}
+  <h2 id="{{ taxonomy.name }}">
+    {{ taxonomy.name }}
+  </h2>
+  <ul class="post-list-by-taxonomy">
+    {%- assign posts = taxonomy.items -%}
+    {%- for post in posts -%}
+      <li>
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m" }}</time> &raquo; <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </li>
+    {%- endfor -%}
+  </ul>
+  <a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
+{%- endfor -%}
+
+<!-- Add return button here -->
+<div class="btn-group" role="group" aria-label="Navigation">
+  <a href="/publications" class="btn btn-secondary">
+    <i class="fas fa-arrow-left"></i> Return
+  </a>
+</div>
+
+
+<script>
+  function backToTop() {
+    const main = document.getElementById("site-main");
+    main.scrollTop = 0;
+  }
+</script>
