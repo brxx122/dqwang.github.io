@@ -4,7 +4,12 @@ permalink: /publications/
 title: Publications
 ---
 
-Full publication list can be found in [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=mAo_lUwAAAAJ).
+<!-- Full publication list can be found in [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=mAo_lUwAAAAJ). -->
+
+My research focuses on:
+- **Large Language Models**: More Intelligent, More Personalized, More Collaborative<a href="#llm" style="text-decoration:none;"> Go <i class="fas fa-arrow-right"></i></a>
+- **AI for Science**: How to find new drugs and interprete AI-decision?<a href="#drug" style="text-decoration:none;"> Go <i class="fas fa-arrow-right"></i></a>
+- **Text Summarization**: Compression is intelligence! Concise & Faithful & Multilingual <a href="#summ" style="text-decoration:none;"> Go <i class="fas fa-arrow-right"></i></a>
 
 
 <!-- Add buttons here -->
@@ -14,10 +19,11 @@ Full publication list can be found in [Google Scholar](https://scholar.google.co
   <a href="confs"><i class="fas fa-graduation-cap"></i> Sorted by Conference</a>
 </div>
 
-## <i>Large Language Models: More Intelligent, More Personalized, More Collaborative</i>
+<h2 id="llm"><i>Large Language Models: More Intelligent, More Personalized, More Collaborative</i></h2> 
 <!-- <details>
 <summary><i><ins>More Intelligent, More Personalized, More Collaborative</ins></i></summary>    -->
-<i><ins>More Intelligent, More Personalized, More Collaborative</ins></i>
+<!-- <i><ins>More Intelligent, More Personalized, More Collaborative</ins></i> -->
+<a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
 
   <table>
   <tr>
@@ -94,9 +100,10 @@ Full publication list can be found in [Google Scholar](https://scholar.google.co
 <!-- </details> -->
 
 
-## <i>AI for Science: How to find new drugs and interprete AI-decision?</i>
+<h2 id="drug"><i>AI for Science: How to find new drugs and interprete AI-decision?</i></h2>
 <!-- <details>
 <summary> <i> <ins>How to find new drugs and interprete AI-decision?</ins> </i></summary>  -->
+<a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
 
 <table>
 <tr>
@@ -138,9 +145,10 @@ Full publication list can be found in [Google Scholar](https://scholar.google.co
 <!-- </details> -->
 
 
-## <i>Text Summarization: Compression is intelligence! Concise & Faithful & Multilingual</i>
+<h2 id="summ"><i>Text Summarization: Compression is intelligence! Concise & Faithful & Multilingual</i></h2>
 <!-- <details>
 <summary> <i><ins>Compression is intelligence! Concise & Faithful & Multilingual</ins></i> </summary> -->
+<a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
   <table>
   <tr>
     <td width="65%">
@@ -242,4 +250,12 @@ Full publication list can be found in [Google Scholar](https://scholar.google.co
   </tr>
   </table>
 <!-- </details> -->
+
+
+<script>
+  function backToTop() {
+    const main = document.getElementById("site-main");
+    main.scrollTop = 0;
+  }
+</script>
 

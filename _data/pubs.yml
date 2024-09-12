@@ -1,12 +1,12 @@
 - title: "Cooperative Strategic Planning Enhances Reasoning Capabilities in Large Language Models"
   date: "2024-06-01"
-  category: "Under Submission"
+  category: "under Submission"
   tags:
     - Large Language Model
     - Multi-agent Reasoning
 - title: "ThinkHub: Enhancing Large Language Models with Implicit Policy and Explicit Knowledge"
   date: "2024-05-01"
-  category: "Under Submission"
+  category: "under Submission"
   tags:
     - Large Language Model
     - Multi-agent Reasoning
@@ -44,6 +44,25 @@
     - Multilingual Generation
     - Benchmark
   url: https://arxiv.org/abs/2108.07140
+- title: "CNewSum: A Large-scale Chinese News Summarization Dataset with Human-annotated Adequacy and Deducibility Level"
+  date: "2021-02-01"
+  category: "NLPCC"
+  tags:
+    - Text Summarization
+    - Benchmark
+  url: /projects/CNewSum
+- title: "Enhancing Scientific Papers Summarization with Citation Graph"
+  date: "2021-09-01"
+  category: "AAAI"
+  tags:
+    - Text Summarization
+  url: https://ojs.aaai.org/index.php/AAAI/article/view/17482/17289
+- title: "CDEvalSumm: An Empirical Study of Cross-dataset Evaluation for Neural Summarization Systems"
+  date: "2021-09-01"
+  category: "EMNLP Findings"
+  tags:
+    - Text Summarization
+  url: https://arxiv.org/pdf/2010.05139
 - title: "On Pre-training Language Model for Antibody"
   date: "2022-05-01"
   category: "ICLR"
@@ -53,7 +72,7 @@
     - Benchmark
   url: /projects/EATLM/
 - title: "Accelerating Antimicrobial Peptide Discovery with Latent Structure"
-  date: "2023-02-01"
+  date: "2022-02-01"
   category: "KDD"
   tags:
     - AI for Drug

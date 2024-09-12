@@ -47,7 +47,8 @@ layout: default
     {{ taxonomy.name }}
   </h2>
   <ul class="post-list-by-taxonomy">
-    {%- assign posts = taxonomy.items -%}
+    {%- assign posts = taxonomy.items | sort: "date" | date: '%Y-%m' | reverse -%}
+    {% comment %} Sort the pub {% endcomment %}
     {%- for post in posts -%}
       <li>
         <time datetime="{{ page.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m" }}</time> &raquo; <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
