@@ -31,9 +31,10 @@ My research focuses on **Strategic Planning of Large Language Models**, especial
 <!-- ## PC Member   -->
 <!-- Program Committee Member -->
 ### PC Member
-* ICML (2023), ICLR (2024), NeurIPS (2023)
-* ACL (2020,2021), EMNLP (2020,2021), NAACL (2021,2024)
+* ICML (2023,2024), NeurIPS (2023,2024), ICLR (2024)
+* ACL (2020,2021), NAACL (2021,2024), EMNLP (2020,2021,2023,2024)
 * AAAI (2020-2024)
+* KDD (2023,2024)
 * NLPCC (2022)
 
 
