@@ -16,7 +16,7 @@ My research focuses on:
 <div class="btn-group" role="group" aria-label="Sort Options">
   <a href="years"><i class="fas fa-calendar-alt"></i> Sorted by Year</a>
   <a href="tags"><i class="fas fa-tags"></i> Sorted by Tags</a>
-  <a href="confs"><i class="fas fa-graduation-cap"></i> Sorted by Conference</a>
+  <!-- <a href="confs"><i class="fas fa-graduation-cap"></i> Sorted by Conference</a> -->
 </div>
 
 <h2 id="llm"><i>Large Language Models: More Intelligent, More Personalized, More Collaborative</i></h2> 

@@ -45,7 +45,7 @@
     - Benchmark
   url: https://arxiv.org/abs/2108.07140
 - title: "CNewSum: A Large-scale Chinese News Summarization Dataset with Human-annotated Adequacy and Deducibility Level"
-  date: "2021-02-01"
+  date: "2022-02-01"
   category: "NLPCC"
   tags:
     - Text Summarization
