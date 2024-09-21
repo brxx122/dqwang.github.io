@@ -57,7 +57,7 @@ My research focuses on:
         <a href="https://arxiv.org/pdf/2310.03304.pdf"><i class="fa fa-home"></i></a>
       </h4>
       <em><strong>Danqing Wang</strong></em>, Kevin Yang, Hanlin Zhu, Xiaomeng Yang, Andrew Cohen, Lei Li, Yuandong Tian <br/>
-      <em>arXiv preprint, 2023</em>
+      <em>EMNLP 2024</em>
     </td>
     <td width="35%" align="right" valign="middle"><img src="/assets/images/PerSE.jpg" alt="PerSE"></td>
   </tr>

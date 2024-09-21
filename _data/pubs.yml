@@ -10,6 +10,14 @@
   tags:
     - Large Language Model
     - Multi-agent Reasoning
+- title: "Learning Personalized Alignment for Evaluating Open-ended Text Generation"
+  date: "2023-09-01"
+  category: "EMNLP"
+  tags:
+    - Large Language Model
+    - Evaluation
+    - Personalization
+  url: https://arxiv.org/abs/2310.03304
 - title: "Searching for Effective Neural Extractive Summarization: What Works and What's Next"
   date: "2019-02-01"
   category: "ACL"
@@ -93,14 +101,6 @@
     - Large Language Model
     - Multi-agent Reasoning
   url: /projects/SALAM/
-- title: "Learning Personalized Alignment for Evaluating Open-ended Text Generation"
-  date: "2023-09-01"
-  category: "arXiv"
-  tags:
-    - Large Language Model
-    - Evaluation
-    - Personalization
-  url: https://arxiv.org/abs/2310.03304
 - title: "InstructScore: Towards Explainable Text Generation Evaluation with Automatic Feedback"
   date: "2023-05-01"
   category: "EMNLP"
