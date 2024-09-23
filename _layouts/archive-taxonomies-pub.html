@@ -81,7 +81,10 @@ layout: default
     {% for pub in sorted_pub %}
       {% if pub.tags contains tag or pub.category == tag %}
       <li>
-        <time datetime="{{ page.date | date_to_xmlschema }}">{{ pub.date | date: "%Y-%m" }}</time> &raquo; <a href="{{ pub.url | relative_url }}">{{ pub.title | escape }}</a>
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ pub.date | date: "%Y-%m" }}</time> &raquo; <a href="{{ pub.url | relative_url }}">{{ pub.title | escape }}</a> 
+        {% if pub.publication != "" %}
+          ({{ pub.publication | escape }})
+        {% endif %} 
       </li>
       {% endif %}
       {%- endfor -%}

@@ -8,7 +8,7 @@ title: Publications
 
 My research focuses on:
 - **Large Language Models**: More Intelligent, More Personalized, More Collaborative<a href="#llm" style="text-decoration:none;"> Go <i class="fas fa-arrow-right"></i></a>
-- **AI for Science**: How to find new drugs and interprete AI-decision?<a href="#drug" style="text-decoration:none;"> Go <i class="fas fa-arrow-right"></i></a>
+- **AI for Drug**: How to find new drugs and interprete AI-decision?<a href="#drug" style="text-decoration:none;"> Go <i class="fas fa-arrow-right"></i></a>
 - **Text Summarization**: Compression is intelligence! Concise & Faithful & Multilingual <a href="#summ" style="text-decoration:none;"> Go <i class="fas fa-arrow-right"></i></a>
 
 
@@ -57,7 +57,7 @@ My research focuses on:
         <a href="https://arxiv.org/pdf/2310.03304.pdf"><i class="fa fa-home"></i></a>
       </h4>
       <em><strong>Danqing Wang</strong></em>, Kevin Yang, Hanlin Zhu, Xiaomeng Yang, Andrew Cohen, Lei Li, Yuandong Tian <br/>
-      <em>EMNLP 2024</em>
+      <em>Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>), 2024</em>
     </td>
     <td width="35%" align="right" valign="middle"><img src="/assets/images/PerSE.jpg" alt="PerSE"></td>
   </tr>

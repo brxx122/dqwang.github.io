@@ -52,6 +52,9 @@ layout: default
     {%- for post in posts -%}
       <li>
         <time datetime="{{ page.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m" }}</time> &raquo; <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        {% if post.publication != "" %}
+          ({{ post.publication | escape }})
+        {% endif %} 
       </li>
     {%- endfor -%}
   </ul>

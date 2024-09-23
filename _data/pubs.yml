@@ -1,18 +1,21 @@
 - title: "Cooperative Strategic Planning Enhances Reasoning Capabilities in Large Language Models"
   date: "2024-06-01"
-  category: "under Submission"
+  category: "under submission"
+  publication: ""
   tags:
     - Large Language Model
     - Multi-agent Reasoning
 - title: "ThinkHub: Enhancing Large Language Models with Implicit Policy and Explicit Knowledge"
-  date: "2024-05-01"
-  category: "under Submission"
+  date: "2024-05-15"
+  category: "under submission"
+  publication: ""
   tags:
     - Large Language Model
     - Multi-agent Reasoning
 - title: "Learning Personalized Alignment for Evaluating Open-ended Text Generation"
-  date: "2023-09-01"
+  date: "2023-09-15"
   category: "EMNLP"
+  publication: "EMNLP 2024"
   tags:
     - Large Language Model
     - Evaluation
@@ -21,18 +24,21 @@
 - title: "Searching for Effective Neural Extractive Summarization: What Works and What's Next"
   date: "2019-02-01"
   category: "ACL"
+  publication: "ACL 2019"
   tags:
     - Text Summarization
   url: https://arxiv.org/abs/1907.03491
 - title: "Extractive Summarization as Text Matching"
   date: "2020-02-01"
   category: "ACL"
+  publication: "ACL 2020"
   tags:
     - Text Summarization
   url: https://arxiv.org/abs/2004.08795
 - title: "Heterogeneous Graph Neural Networks for Extractive Document Summarization"
   date: "2020-02-01"
   category: "ACL"
+  publication: "ACL 2020"
   tags:
     - Text Summarization
     - Graph Neural Network
@@ -40,6 +46,7 @@
 - title: "Contrastive Aligned Joint Learning for Multilingual Summarization"
   date: "2021-02-01"
   category: "ACL Findings"
+  publication: "ACL Findings 2021"
   tags:
     - Text Summarization
     - Multilingual Generation
@@ -48,6 +55,7 @@
 - title: "MTG: A Benchmark Suite for Multilingual Text Generation"
   date: "2021-05-01"
   category: "NAACL Findings"
+  publication: "NAACL Findings 2022"
   tags:
     - Multilingual Generation
     - Benchmark
@@ -55,6 +63,7 @@
 - title: "CNewSum: A Large-scale Chinese News Summarization Dataset with Human-annotated Adequacy and Deducibility Level"
   date: "2022-02-01"
   category: "NLPCC"
+  publication: "NLPCC 2022"
   tags:
     - Text Summarization
     - Benchmark
@@ -62,18 +71,21 @@
 - title: "Enhancing Scientific Papers Summarization with Citation Graph"
   date: "2021-09-01"
   category: "AAAI"
+  publication: "AAAI 2021"
   tags:
     - Text Summarization
   url: https://ojs.aaai.org/index.php/AAAI/article/view/17482/17289
 - title: "CDEvalSumm: An Empirical Study of Cross-dataset Evaluation for Neural Summarization Systems"
   date: "2021-09-01"
   category: "EMNLP Findings"
+  publication: "EMNLP Findings 2020"
   tags:
     - Text Summarization
   url: https://arxiv.org/pdf/2010.05139
 - title: "On Pre-training Language Model for Antibody"
   date: "2022-05-01"
   category: "ICLR"
+  publication: "ICLR 2023"
   tags:
     - AI for Drug
     - Protein & Peptite
@@ -82,6 +94,7 @@
 - title: "Accelerating Antimicrobial Peptide Discovery with Latent Structure"
   date: "2022-02-01"
   category: "KDD"
+  publication: "KDD 2023"
   tags:
     - AI for Drug
     - Protein & Peptite
@@ -89,6 +102,7 @@
 - title: "Global Human-guided Counterfactual Explanations for Molecular Properties via Reinforcement Learning"
   date: "2024-02-01"
   category: "KDD"
+  publication: "KDD 2024"
   tags:
     - AI for Drug
     - Molecule
@@ -97,6 +111,7 @@
 - title: "Learning from Mistakes via Cooperative Study Assistant for Large Language Models "
   date: "2023-05-01"
   category: "EMNLP"
+  publication: "EMNLP 2023"
   tags:
     - Large Language Model
     - Multi-agent Reasoning
@@ -104,6 +119,7 @@
 - title: "InstructScore: Towards Explainable Text Generation Evaluation with Automatic Feedback"
   date: "2023-05-01"
   category: "EMNLP"
+  publication: "EMNLP 2023"
   tags:
     - Large Language Model
     - Evaluation
@@ -111,6 +127,7 @@
 - title: "ALGO: synthesizing algorithmic programs with LLM-generated oracle verifiers"
   date: "2023-02-01"
   category: "NeurIPS"
+  publication: "NeurIPS 2023"
   tags:
     - Large Language Model
     - Code Generation
