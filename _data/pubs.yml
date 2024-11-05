@@ -5,13 +5,15 @@
   tags:
     - Large Language Model
     - Multi-agent Reasoning
-- title: "ThinkHub: Enhancing Large Language Models with Implicit Policy and Explicit Knowledge"
+  url: https://arxiv.org/abs/2410.20007
+- title: "TypedThinker: Typed Thinking Improves Large Language Model Reasoning"
   date: "2024-05-15"
   category: "under submission"
   publication: ""
   tags:
     - Large Language Model
     - Multi-agent Reasoning
+  url: https://arxiv.org/abs/2410.01952
 - title: "Learning Personalized Alignment for Evaluating Open-ended Text Generation"
   date: "2023-09-15"
   category: "EMNLP"

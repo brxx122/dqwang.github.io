@@ -1,6 +1,8 @@
 # dir
 _site/
 .sass-cache/
+vendor/
+.bundle/
 
 # file
 .DS_Store

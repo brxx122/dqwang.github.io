@@ -30,6 +30,7 @@ My research focuses on:
     <td width="65%">
       <h4>
         Cooperative Strategic Planning Enhances Reasoning Capabilities in Large Language Models
+        <a href="https://arxiv.org/abs/2410.20007"><i class="fa fa-link fa-sm"></i></a>
         <!-- <a href=""><i class="fa fa-home"></i></a> -->
       </h4>
       <em><strong>Danqing Wang</strong></em>, Zhuorui Ye, Fei Fang, Lei Li <br/>
@@ -41,12 +42,13 @@ My research focuses on:
   <tr>
     <td width="65%">
       <h4>
-        ThinkHub: Enhancing Large Language Models with Implicit Policy and Explicit Knowledge
+        TypedThinker: Typed Thinking Improves Large Language Model Reasoning
+        <a href="https://arxiv.org/abs/2410.01952"><i class="fa fa-link fa-sm"></i></a>
         <!-- <a href=""><i class="fa fa-home"></i></a> -->
       </h4>
-      <em><strong>Danqing Wang</strong></em>, JianXin Ma, Lei Li <br/>
+      <em><strong>Danqing Wang</strong></em>, JianXin Ma, Fei Fang, Lei Li <br/>
       <!-- <em>arXiv preprint, 2024</em> -->
-      <em>Under submission</em>
+      <em>Preprint</em>
     </td>
     <td width="35%" align="right" valign="middle"><img src="/assets/images/ThinkHub.jpg" alt="ThinkHub"></td>
   </tr>
