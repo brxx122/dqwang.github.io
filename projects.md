@@ -4,19 +4,14 @@ permalink: /projects/
 title: Projects
 ---
 
-## Open Source Repositories
+# Open Source Repositories
 
-### [RLHEX] <em>Global Human-guided Counterfactual Explanations for Molecular Properties via Reinforcement Learning</em>
-***Danqing Wang<sup>*</sup>***, Antonis Antoniades<sup>*†</sup>, Kha-Dinh Luong†, Edwin Zhang<sup>‡</sup>, Mert Kosan†, Jiachen Li†, William Yang Wang†, Ambuj Singh†, Lei Li   
-Carnegie Mellon University, †UC Santa Barbara, ‡Harvard University, Founding     
-<!-- <a href="https://storyrl.github.io" title="Website" style="text-decoration:none;"><i class="fas fa-home"></i> Website</a> -->
-<a href="https://doi.org/10.1145/3637528.3672045" title="Paper" style="text-decoration:none;"><i class="fa fa-file-alt"></i> Paper</a>
-<!-- <a href="/assets/PPT/20230407_ICLR2023_EATLM.pdf" title="Slides" style="text-decoration:none;"><i class="fas fa-file-powerpoint"></i> Slides</a> -->
-<a href="https://github.com/dqwang122/RLHEX" title="Code" style="text-decoration:none;"><i class="fab fa-github"></i> Code</a>
-<!-- <a href="https://dl.fbaipublicfiles.com/perse/PerDOC.tar.gz" title="Resource" style="text-decoration:none;"><i class="fab fa-google-drive"></i> Dateset</a> -->
-<!-- <a href="https://iclr.cc/virtual/2023/poster/10766" title="Video" style="text-decoration:none;"><i class="fab fa-youtube"></i> Video</a> -->
+<h2 id="llm"><i class="fas fa-bookmark"></i> Large Language Models</h2> 
+<!-- <details>
+<summary><i><ins>More Intelligent, More Personalized, More Collaborative</ins></i></summary>    -->
+<i><ins>More Intelligent, More Personalized, More Collaborative</ins></i>
+<a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
 
-***
 
 ### [PerSE] <em>Learning Personalized Alignment for Evaluating Open-ended Text Generation</em> 
 ***Danqing Wang***, Kevin Yang†‡, Hanlin Zhu†‡, Xiaomeng Yang†, Andrew Cohen†, Lei Li*, Yuandong Tian†   
@@ -39,6 +34,21 @@ UC Santa Barbara, *Carnegie Mellon University
 <a href="https://github.com/dqwang122/SALAM" title="Code" style="text-decoration:none;"><i class="fab fa-github"></i> Code</a>
 <!-- <a href="https://zenodo.org/record/7340488#.Y875U-zMK3J" title="Resource" style="text-decoration:none;"><i class="fab fa-google-drive"></i> Dateset</a> -->
 <!-- <a href="https://iclr.cc/virtual/2023/poster/10766" title="Video" style="text-decoration:none;"><i class="fab fa-youtube"></i> Video</a> -->
+
+
+
+<h2 id="drug"><i class="fas fa-bookmark"></i> AI for Drug design</h2>
+<!-- <details>
+<summary> <i> <ins>How to find new drugs and interprete AI-decision?</ins> </i></summary>  -->
+<i> <ins>How to find new drugs and interprete AI-decision?</ins> </i>
+<a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
+
+### [RLHEX] <em>Global Human-guided Counterfactual Explanations for Molecular Properties via Reinforcement Learning</em>
+***Danqing Wang<sup>*</sup>***, Antonis Antoniades<sup>*†</sup>, Kha-Dinh Luong†, Edwin Zhang<sup>‡</sup>, Mert Kosan†, Jiachen Li†, William Yang Wang†, Ambuj Singh†, Lei Li   
+Carnegie Mellon University, †UC Santa Barbara, ‡Harvard University, Founding     
+<!-- <a href="https://storyrl.github.io" title="Website" style="text-decoration:none;"><i class="fas fa-home"></i> Website</a> -->
+<a href="https://doi.org/10.1145/3637528.3672045" title="Paper" style="text-decoration:none;"><i class="fa fa-file-alt"></i> Paper</a>
+<a href="https://github.com/dqwang122/RLHEX" title="Code" style="text-decoration:none;"><i class="fab fa-github"></i> Code</a>
 
 ***
 
@@ -63,7 +73,13 @@ UC Santa Barbara, †ByteDance AI Lab, *Tsinghua University
 <a href="https://github.com/dqwang122/LSSAMP" title="Code" style="text-decoration:none;"><i class="fab fa-github"></i> Code</a>
 <a href="https://dl.acm.org/doi/10.1145/3580305.3599249" title="Video" style="text-decoration:none;"><i class="fab fa-youtube"></i> Video</a>
 
-***
+
+<h2 id="summ"><i class="fas fa-bookmark"></i> Text Summarization</h2>
+<!-- <details>
+<summary> <i><ins>Compression is intelligence! Concise & Faithful & Multilingual</ins></i> </summary> -->
+<i><ins>Compression is intelligence! Concise & Faithful & Multilingual</ins></i>
+<a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
+
 
 ### [CALMS] <em>Contrastive Aligned Joint Learning for Multilingual Summarization</em>
 ***Danqing Wang***, Jiaze Chen, Hao Zhou, Xipeng Qiu†, Lei Li   
@@ -104,3 +120,11 @@ Fudan University
 Fudan University    
 <a href="https://arxiv.org/abs/1908.11664" title="Paper" style="text-decoration:none;"><i class="fa fa-file-alt"></i> Paper</a>
 <a href="https://drive.google.com/file/d/1KOOVBO6z24aM36fdV9xc-Vyu31QAL4Gs/view?usp=sharing" title="Resource" style="text-decoration:none;"><i class="fab fa-google-drive"></i> Dateset</a>
+
+
+<script>
+  function backToTop() {
+    const main = document.getElementById("site-main");
+    main.scrollTop = 0;
+  }
+</script>
