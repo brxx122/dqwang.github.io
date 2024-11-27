@@ -14,25 +14,28 @@ My research focuses on **Strategic Planning of Large Language Models**, especial
 ## <em>Education</em>
 
 * 2024.1-Now: PhD in LTI, CMU
-* 2022.9-2023.12: PhD in Computer Science, UCSB
+* 2022.9-2023.12: PhD in Computer Science, UCSB (Transferred)
 * 2018.9-2021.1: Master in Computer Science, Fudan University
 * 2014.9-2018.6: Bachelor in Computer Science and Technology, Fudan University
 
-## <em>Work Experience</em>
+## <em>Experience</em>
 
 * 2024.3-2024.5: Research Scientist Intern, Alibaba (Team Qwen)
   * Mentor: [Jianxin Ma](https://jianxinma.github.io/)
+  * Topic: Large Language Model Reasoning
 * 2023.6-2024.1: Research Scientist Intern, Meta AI (FAIR)
   * Mentor: [Yuandong Tian](https://yuandong-tian.com/)
+  * Topic: Personalized Alignment in LLMs
 * 2020.4-2022.8: Researcher, ByteDance Research (AI Lab)
   * Mentor: [Jiaze Chen](https://cn.linkedin.com/in/jiaze-chen-00ab2681), [Hao Zhou](https://zhouh.github.io/), [Lei Li](https://lileicc.github.io/)
+  * Topic: Text Generation, AI for Drug Design
 
 ## <em>Academic Service</em>
 <!-- ## PC Member   -->
 <!-- Program Committee Member -->
 ### PC Member
-* ICML (2023,2024), NeurIPS (2023,2024), ICLR (2024)
-* ACL (2020,2021), NAACL (2021,2024), EMNLP (2020,2021,2023,2024)
+* ICML (2023-2025), NeurIPS (2023-2025), ICLR (2024,2025)
+* ACL (2020,2021), NAACL (2021,2024,2025), EMNLP (2020,2021,2023,2024)
 * AAAI (2020-2024)
 * KDD (2023,2024)
 * NLPCC (2022)
