@@ -20,8 +20,7 @@ Full publication list can be found in [Google Scholar](https://scholar.google.co
         <!-- <a href=""><i class="fa fa-home"></i></a> -->
       </h4>
       <em><strong>Danqing Wang</strong></em>, Zhuorui Ye, Fei Fang, Lei Li <br/>
-      <!-- <em>arXiv preprint, 2024</em> -->
-      <em>Preprint</em>
+      <em>arXiv preprint, 2024</em>
     </td>
     <td width="35%" align="right" valign="middle"><img src="/assets/images/CoPlanner.jpg" alt="CoPlanner"></td>
   </tr>
@@ -33,8 +32,19 @@ Full publication list can be found in [Google Scholar](https://scholar.google.co
         <!-- <a href=""><i class="fa fa-home"></i></a> -->
       </h4>
       <em><strong>Danqing Wang</strong></em>, JianXin Ma, Fei Fang, Lei Li <br/>
-      <!-- <em>arXiv preprint, 2024</em> -->
-      <em>Preprint</em>
+      <em>arXiv preprint, 2024</em>
+    </td>
+    <td width="35%" align="right" valign="middle"><img src="/assets/images/TypedThinker.jpg" alt="TypedThinker"></td>
+  </tr>
+  <tr>
+    <td width="70%">
+      <h4>
+        Scaling LLM Inference with Optimized Sample Compute Allocation
+        <a href="https://arxiv.org/abs/2410.22480"><i class="fa fa-link fa-sm"></i></a>
+        <!-- <a href=""><i class="fa fa-home"></i></a> -->
+      </h4>
+      <em>Kexun Zhang*, Shang Zhou*, <strong>Danqing Wang</strong></em>, William Yang Wang, Lei Li <br/>
+      <em>arXiv preprint, 2024</em>
     </td>
     <td width="35%" align="right" valign="middle"><img src="/assets/images/TypedThinker.jpg" alt="TypedThinker"></td>
   </tr>
