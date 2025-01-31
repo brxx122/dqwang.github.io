@@ -32,7 +32,7 @@ Full publication list can be found in [Google Scholar](https://scholar.google.co
         <!-- <a href=""><i class="fa fa-home"></i></a> -->
       </h4>
       <em><strong>Danqing Wang</strong></em>, JianXin Ma, Fei Fang, Lei Li <br/>
-      <em>arXiv preprint, 2024</em>
+      <em>ICLR 2025</em>
     </td>
     <td width="35%" align="right" valign="middle"><img src="/assets/images/TypedThinker.jpg" alt="TypedThinker"></td>
   </tr>
