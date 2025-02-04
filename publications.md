@@ -44,7 +44,7 @@ Full publication list can be found in [Google Scholar](https://scholar.google.co
         <!-- <a href=""><i class="fa fa-home"></i></a> -->
       </h4>
       <em>Kexun Zhang*, Shang Zhou*, <strong>Danqing Wang</strong></em>, William Yang Wang, Lei Li <br/>
-      <em>arXiv preprint, 2024</em>
+      <em>NAACL 2025</em>
     </td>
     <td width="35%" align="right" valign="middle"><img src="/assets/images/OSCA.jpg" alt="OSCA"></td>
   </tr>
